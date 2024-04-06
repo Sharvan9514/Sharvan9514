@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sharvan9514
 - 👀 I’m interested in implement and create new things
-- 🌱 I’m currently learning LLD and HLD
+- 🌱 I’m currently learning HLD
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me use my portfolio
+- 📫 How to reach me? --> use my portfolio
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
